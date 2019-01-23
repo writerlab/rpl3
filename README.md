@@ -10,7 +10,7 @@
 ## buka google chrome atau browser lainnya
 ```http://127.0.0.1:8000```
 
-## buka terminal/cmd lagi. buat project dengan nama *blog*
+## buka terminal/cmd lagi. buat App dengan nama *blog*
 ```python manage.py startapp blog```
 
 ## buka project dengan text editor: Visual Studio Code
