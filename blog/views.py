@@ -1,16 +1,20 @@
 # -*- coding: utf-8 -*-
 from __future__ import unicode_literals
-from django.shortcuts import render, HttpResponse
+from django.shortcuts import render
 
 # Create your views here.
 def home(request):
-    return HttpResponse("halo ini halaman depan...")
+  return render(request, 'layout/index.html')
 
 def about(request):
-    return HttpResponse('ini halaman ABOUT: ZUL HILMI')
+  return render(request, 'layout/about.html')
 
 def kontak(request):
-  return HttpResponse('<h3>twitter: @hilmizul</h3>')
+  return render(request, 'layout/kontak.html')
+
+
+def blog(request):
+  return render(request, 'layout/blog.html')
 
 
 
