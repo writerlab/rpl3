@@ -9,11 +9,20 @@
 <body>
   <h1>SELAMAT DATANG DI BLOG HILMI</h1>
   
-  <a href="/">HOME</a> - 
-  <a href="/about">ABOUT</a> - 
-  <a href="/kontak">CONTACT</a>
+  {% include "layout/menu.html" %}
 
   <p>blog ini berisi tentang cerita dan pegnalaman saya dulu dan sekrang.</p>
   <p>teks, audio, dan vidio2 absurd.</p>
+
+  {% if True %}
+    <h1>ini akan muncul, karena kondisinya TRUE</h1>
+  {% endif %}
+
+
+  {{ nama | lower }}
+
+  {% for fruit in buahbuahan %}
+    <li>{{ fruit }}</li>
+  {% endfor %}
 </body>
 </html>
