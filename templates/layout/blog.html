@@ -11,11 +11,11 @@
 
   {% include "layout/menu.html" %}
 
-  <ul>
-    {% for blog in blogs %}
-      <li><b>{{ blog.judul }}</b> oleh <i>{{ blog.penulis }}</i></li>
-    {% endfor %}
-  </ul>
+  {% for blog in blogs %}
+    <h2>{{ blog.judul }}</h2> 
+    oleh <i>{{ blog.penulis }}</i> - pada {{ blog.tanggal }}
+    <hr>
+  {% endfor %}
 
 </body>
 </html>
