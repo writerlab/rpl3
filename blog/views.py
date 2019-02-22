@@ -1,5 +1,6 @@
 from __future__ import unicode_literals
 from django.shortcuts import render
+from blog.models import Artikel
 
 # Create your views here.
 def home(request):
@@ -14,7 +15,9 @@ def kontak(request):
   return render(request, 'layout/kontak.html')
 
 def blog(request):
-  return render(request, 'layout/blog.html')
+  # select * from Artikel
+  blogs = Artikel.objects.all()
+  return render(request, 'layout/blog.html', {'blogs':blogs})
 
 
 

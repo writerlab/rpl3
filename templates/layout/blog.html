@@ -11,6 +11,11 @@
 
   {% include "layout/menu.html" %}
 
-  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam repellat vitae corrupti quasi sapiente! Debitis modi quasi rerum ab qui voluptate officiis, mollitia labore! Laborum, culpa nemo? Itaque, molestiae aut.</p>
+  <ul>
+    {% for blog in blogs %}
+      <li><b>{{ blog.judul }}</b> oleh <i>{{ blog.penulis }}</i></li>
+    {% endfor %}
+  </ul>
+
 </body>
 </html>
