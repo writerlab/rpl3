@@ -15,8 +15,8 @@ def kontak(request):
   return render(request, 'layout/kontak.html')
 
 def blog(request):
-  # select * from Artikel
-  blogs = Artikel.objects.all()
+  # select * from Artikel where publish=true
+  blogs = Artikel.objects.filter(publish=True)
   return render(request, 'layout/blog.html', {'blogs':blogs})
 
 

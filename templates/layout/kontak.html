@@ -12,9 +12,12 @@
   {% include "layout/menu.html" %}
 
   <ul>
-    <li>twitter: <a href="https://twitter.com/hilmi_zul">@hilmi_zul</a></li>
-    <li>instagram: <a href="https://instagram.com/hilmi_zul">@hilmi_zul</a></li>
-    <li>email: <a href="mailto:zulx@smkn4-tsm.sch.id">email me</a></li>
+    {% for kontak in contacts %}
+      <li><a href="{{ kontak.twitter }}">{{ kontak.twitter }}</a></li>
+      <li><a href="{{ kontak.github }}">{{ kontak.github }}</a></li>
+      <li><a href="{{ kontak.email }}">{{ kontak.email }}</a></li>
+      <li><a href="{{ kontak.no_hp }}">{{ kontak.no_hp }}</a></li>
+    {% endfor %}
   </ul>
 </body>
 </html>
