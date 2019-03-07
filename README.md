@@ -1,7 +1,6 @@
 # 1st TEST 
 ### *6 Maret 2019*
 ### SESI 1
-*6 Maret 2019*
 *Waktu 30 menit*
 * Buat App dengan nama: about
 * Buat modelnya dengan nama: About
