@@ -1,4 +1,5 @@
-# ULANGAN - SESI 1
+# 1st TEST 
+## SESI 1
 *6 Maret 2019*
 *Waktu 30 menit*
 * Buat App dengan nama: about
@@ -8,8 +9,7 @@
 * Isi datanya
 * Tampilkan di Halaman Depan/Render datanya ke Template (about.html).
 
-
-# ULANGAN - SESI 2
+## SESI 2
 *6 Maret 2019*
 *Waktu 30 menit*
 * Buat Project Baru dengan nama: Akademik
@@ -22,3 +22,15 @@
       * jurusan
 * Tampilkan model di Django Admin
 * Isi datanya
+
+---
+
+# 2nd TEST
+## SESI 1
+*8 Maret 2019*
+*Waktu 30 menit*
+* Buat Project Baru: kasir
+* Buat *Super user* untuk login ke Django Admin:
+  * user: **kasir**
+  * pass: **sandi.masuk.ok**
+* Udah gitu aja 😁
