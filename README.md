@@ -1,7 +1,7 @@
 # 1st TEST 
 ### *6 Maret 2019*
 ### SESI 1
-*Waktu 30 menit*
+### Waktu 30 menit
 * Buat App dengan nama: about
 * Buat modelnya dengan nama: About
   * attribute-nya: nama, biodata
@@ -10,7 +10,7 @@
 * Tampilkan di Halaman Depan/Render datanya ke Template (about.html).
 
 ### SESI 2
-*Waktu 30 menit*
+### Waktu 30 menit
 * Buat Project Baru dengan nama: Akademik
 * Buat App dengan nama: siswa
   * Buat model: Siswa
@@ -25,9 +25,9 @@
 ---
 
 # 2nd TEST
-### *8 Maret 2019*
+### 8 Maret 2019
 ### SESI 1
-*Waktu 10 menit*
+### Waktu 10 menit
 * Buat Project Baru: **kasir**
 * Buat *Super User* untuk *login* ke Django Admin:
   * username: **kasir**
