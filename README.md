@@ -27,7 +27,7 @@
 # 2nd TEST
 ### *8 Maret 2019*
 ### SESI 1
-*Waktu 30 menit*
+*Waktu 10 menit*
 * Buat Project Baru: **kasir**
 * Buat *Super User* untuk *login* ke Django Admin:
   * username: **kasir**
