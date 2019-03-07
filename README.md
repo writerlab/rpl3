@@ -1,5 +1,6 @@
 # 1st TEST 
-## SESI 1
+### *6 Maret 2019*
+### SESI 1
 *6 Maret 2019*
 *Waktu 30 menit*
 * Buat App dengan nama: about
@@ -9,8 +10,7 @@
 * Isi datanya
 * Tampilkan di Halaman Depan/Render datanya ke Template (about.html).
 
-## SESI 2
-*6 Maret 2019*
+### SESI 2
 *Waktu 30 menit*
 * Buat Project Baru dengan nama: Akademik
 * Buat App dengan nama: siswa
@@ -26,8 +26,8 @@
 ---
 
 # 2nd TEST
-## SESI 1
-*8 Maret 2019*
+### *8 Maret 2019*
+### SESI 1
 *Waktu 30 menit*
 * Buat Project Baru: **kasir**
 * Buat *Super User* untuk *login* ke Django Admin:
