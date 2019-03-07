@@ -29,8 +29,10 @@
 ## SESI 1
 *8 Maret 2019*
 *Waktu 30 menit*
-* Buat Project Baru: kasir
-* Buat *Super user* untuk login ke Django Admin:
-  * user: **kasir**
-  * pass: **sandi.masuk.ok**
+* Buat Project Baru: **kasir**
+* Buat *Super User* untuk *login* ke Django Admin:
+  * username: **kasir**
+  * email: **kasir@toko.id** 
+  * password: **sandi.masuk.ok**
+* Pastikan bisa *login* dengan benar.
 * Udah gitu aja 😁
