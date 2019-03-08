@@ -32,6 +32,6 @@
 * Buat *Super User* untuk *login* ke Django Admin:
   * username: **kasir**
   * email: **kasir@toko.id** 
-  * password: **sandi.masuk.ok**
+  * password: **ijin.masuk.ok**
 * Pastikan bisa *login* dengan benar.
 * Udah gitu aja 😁
