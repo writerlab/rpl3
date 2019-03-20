@@ -45,3 +45,13 @@
   * password: **masterweb**
 * Pastikan bisa *login* dengan benar.
 * Udah gitu aja 😁
+
+### SESI 3
+### Waktu 10 menit
+* Buat Project Baru: **apotek**
+* Buat *Super User* untuk *login* ke Django Admin:
+  * username: **apoteker** *(nama masing-masing)*
+  * email: **apoteker@apotek.id** 
+  * password: **ayo.sehat**
+* Pastikan bisa *login* dengan benar.
+* Udah gitu aja 😁
