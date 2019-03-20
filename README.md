@@ -50,7 +50,7 @@
 ### Waktu 10 menit
 * Buat Project Baru: **apotek**
 * Buat *Super User* untuk *login* ke Django Admin:
-  * username: **apoteker** *(nama masing-masing)*
+  * username: **apoteker** 
   * email: **apoteker@apotek.id** 
   * password: **ayo.sehat**
 * Pastikan bisa *login* dengan benar.
