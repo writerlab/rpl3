@@ -38,10 +38,10 @@
 
 ### SESI 2
 ### Waktu 10 menit
-* Buat Project Baru: **perpustakaan**
+* Buat Project Baru: **website**
 * Buat *Super User* untuk *login* ke Django Admin:
   * username: **zul** *(nama masing-masing)*
-  * email: **zul@perpustakaan.id** 
-  * password: **ayo.membaca**
+  * email: **zul@website.id** 
+  * password: **masterweb**
 * Pastikan bisa *login* dengan benar.
 * Udah gitu aja 😁
