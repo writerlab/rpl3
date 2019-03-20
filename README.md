@@ -28,11 +28,11 @@
 ### 20 Maret 2019 *(edited)*
 ### SESI 1
 ### Waktu 10 menit
-* Buat Project Baru: **akademik**
+* Buat Project Baru: **rumahsakit**
 * Buat *Super User* untuk *login* ke Django Admin:
-  * username: **admin**
-  * email: **admin@akademik.ac.id** 
-  * password: **ijin.masuk.ok**
+  * username: **hilmi** *(nama masing-masing)*
+  * email: **admin@rumahsakit.id** 
+  * password: **ayo.sehat**
 * Pastikan bisa *login* dengan benar.
 * Udah gitu aja 😁
 
