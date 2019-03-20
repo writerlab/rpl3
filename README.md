@@ -38,10 +38,10 @@
 
 ### SESI 2
 ### Waktu 10 menit
-* Buat Project Baru: **travelokal**
+* Buat Project Baru: **perpustakaan**
 * Buat *Super User* untuk *login* ke Django Admin:
-  * username: **admin**
-  * email: **admin@travelokal.id** 
-  * password: **jalan.jalan.kuy**
+  * username: **zul** *(nama masing-masing)*
+  * email: **zul@perpustakaan.id** 
+  * password: **ayo.membaca**
 * Pastikan bisa *login* dengan benar.
 * Udah gitu aja 😁
