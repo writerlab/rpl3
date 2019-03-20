@@ -35,3 +35,13 @@
   * password: **ijin.masuk.ok**
 * Pastikan bisa *login* dengan benar.
 * Udah gitu aja 😁
+
+### SESI 2
+### Waktu 10 menit
+* Buat Project Baru: **travelokal**
+* Buat *Super User* untuk *login* ke Django Admin:
+  * username: **admin**
+  * email: **admin@travelokal.id** 
+  * password: **red.velvet**
+* Pastikan bisa *login* dengan benar.
+* Udah gitu aja 😁
