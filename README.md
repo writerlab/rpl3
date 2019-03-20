@@ -25,7 +25,7 @@
 ---
 
 # 2nd TEST
-### 8 Maret 2019
+### 20 Maret 2019 *(edited)*
 ### SESI 1
 ### Waktu 10 menit
 * Buat Project Baru: **kasir**
