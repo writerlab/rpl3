@@ -28,10 +28,10 @@
 ### 20 Maret 2019 *(edited)*
 ### SESI 1
 ### Waktu 10 menit
-* Buat Project Baru: **kasir**
+* Buat Project Baru: **akademik**
 * Buat *Super User* untuk *login* ke Django Admin:
-  * username: **kasir**
-  * email: **kasir@toko.id** 
+  * username: **admin**
+  * email: **admin@akademik.ac.id** 
   * password: **ijin.masuk.ok**
 * Pastikan bisa *login* dengan benar.
 * Udah gitu aja 😁
