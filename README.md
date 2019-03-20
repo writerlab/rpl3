@@ -42,6 +42,6 @@
 * Buat *Super User* untuk *login* ke Django Admin:
   * username: **admin**
   * email: **admin@travelokal.id** 
-  * password: **red.velvet**
+  * password: **jalan.jalan.kuy**
 * Pastikan bisa *login* dengan benar.
 * Udah gitu aja 😁
